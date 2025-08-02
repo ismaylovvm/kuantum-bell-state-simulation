@@ -1,17 +1,17 @@
 # Qiskit ile Kuantum Dolanıklık (Bell Durumu) Simülasyonu
 
-Bu proje, kuantum mekaniğinin en temel ve en şaşırtıcı fenomenlerinden biri olan **kuantum dolanıklığını**, en basit örneği olan **Bell durumu** üzerinden adım adım simüle etmektedir.
+Bu proje, kuantum mekaniğinin en temel ve en şaşırtıcı fenomenlerinden biri olan **kuantum dolanıklığını** en basit örneği olan **Bell durumu** üzerinden adım adım simüle etmektedir.
 
 ---
 
 ## 🎯 Projenin Amacı
-Albert Einstein'ın *"ürkütücü uzaktan etki"* olarak adlandırdığı dolanıklık, iki veya daha fazla parçacığın kaderini, aralarındaki mesafe ne olursa olsun, anında birbirine bağlar.  
-Bu projenin amacı, bu soyut ve karmaşık görünen konsepti, IBM'in açık kaynaklı **Qiskit** kütüphanesi kullanarak somut ve anlaşılır bir deneye dönüştürmektir.
+Albert Einstein ın *"ürkütücü uzaktan etki"* olarak adlandırdığı dolanıklık iki veya daha fazla parçacığın kaderini aralarındaki mesafe ne olursa olsun anında birbirine bağlar.  
+Bu projenin amacı bu soyut ve karmaşık görünen konsepti IBM'in açık kaynaklı **Qiskit** kütüphanesi kullanarak somut ve anlaşılır bir deneye dönüştürmektir.
 
 **Bu simülasyon ile cevap aranan sorular:**
 - Birkaç satır Python koduyla bir kuantum devresi nasıl kurulur?
 - Süperpozisyon ve dolanıklık gibi temel kuantum durumları pratikte nasıl yaratılır?
-- Teorik olarak öngörülen sonuçlar, simülasyon ortamında doğrulanabilir mi?
+- Teorik olarak öngörülen sonuçlar simülasyon ortamında doğrulanabilir mi?
 
 ---
 
