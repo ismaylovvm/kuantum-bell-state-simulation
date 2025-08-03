@@ -1,5 +1,4 @@
-# **Einstein Haksız mıydı? Qiskit ile İlk Kuantum**
-**Deneyimi**
+# **Einstein Haksız mıydı? Qiskit ile İlk Kuantum Deneyimi**
 
 `    `Fizik yasaları evrenin iki ayrı ucundaki iki parçacığın kaderini anında bir birine bağlayabilirmi? Albert Einstein bu fikre “ürkütücü uzaktan etki” diyerek şiddetle karşı çıkmıştı.Mantığımza tamamen aykırı olan bu iddia, modern fiziğin en derin gizemlerinden biridir.
 
