@@ -57,6 +57,9 @@ Gerçek bir cihazda çalıştırmamış olsak da, tipik bir sonuç aşağıdaki 
 ![](images/KuantumBilgisayarSonuç.png) ![](images/SimulasyonSonuç.png)
 
 Bu karşılaştırma günümüz kuantum bilişiminin en büyük mücadelesini gözler önüne seriyor **- Kuantum Hata Düzeltme (Quantum Error Correction).** Bilim insanlarının ve mühendislerin en büyük hedefi  bu "gürültüyü" en aza indirerek gerçek donanımları simülasyonların teorik mükemmelliğine yaklaştırmaktır.
+
+![](images/KuantumBilgisayarı.png)
+
 # **Kapanış: Bir Sonraki Adım Ne?**
 Bu basit proje, benim için kuantum dünyasının kapısını araladı ve en karmaşık görünen konuların bile pratik deneylerle anlaşılabileceğini gösterdi. Kuantum bilişimin hala ilk günlerinde olması, aslında bizler için büyük bir fırsat. 
 
@@ -66,5 +69,5 @@ herkesin bu heyecan verici alana ilk adımı atabileceğini göstermek istedim.k
 
 Okuduğunuz için teşekkürler!
 
-![](images/KuantumBilgisayarı.png)
+
 
