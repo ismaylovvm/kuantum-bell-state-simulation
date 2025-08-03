@@ -2,7 +2,7 @@
 
 `    `Fizik yasaları evrenin iki ayrı ucundaki iki parçacığın kaderini anında bir birine bağlayabilirmi? Albert Einstein bu fikre “ürkütücü uzaktan etki” diyerek şiddetle karşı çıkmıştı.Mantığımza tamamen aykırı olan bu iddia, modern fiziğin en derin gizemlerinden biridir.
 
-Acaba bu “ürkütücü etki” sadece bir matematiksel soyutlama mıydı, yoksa gerçekten de kodla test edip kanıtlayabileceğimiz bir gerçek mi?
+Acaba bu “ürkütücü etki” sadece bir matematiksel soyutlama mıydı yoksa gerçekten de kodla test edip kanıtlayabileceğimiz bir gerçek mi?
 
 Bu yazıda hiçbir özel donanıma ihtiyaç duymadan, sadece bir web tarayıcısı ve IBM’in açık kaynaklı Qiskit kütüphanesini kullanarak bu teoriyi kodlarla kanıtlamaya çalışacağız.
 ## **Bölüm 1: Hedefimiz ne? Bell Durumu ve “Anlaşma”**
